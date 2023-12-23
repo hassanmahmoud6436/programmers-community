@@ -1,4 +1,4 @@
-##**Deleting Your Account:**
+**Deleting Your Account:**
 
 To remove your account and associated data from the application, follow these steps:
 
