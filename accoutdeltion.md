@@ -1,5 +1,5 @@
 This link guides you through the process of permanently deleting your 'Programmers Community' account and associated data. Follow these steps:
-===
+====
 
 **1. Sign in to your 'Programmers Community' account.**
 **2. Navigate to the account section.**
